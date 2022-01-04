@@ -1,0 +1,39 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body {
+  background-color: #212121;
+}
+.container {
+  background-color: #424242;
+  width: 400px;
+  height: 320px;
+  margin: 45px auto;
+  border-radius: 5px;
+  color: burlywood;
+  padding: 25px 50px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+input[type="text"] {
+  width: 240px;
+  height: 30px;
+  border-radius: 1.5px;
+  border: none;
+}
+#base {
+  width: 240px;
+  height: 30px;
+  border-radius: 1.5px;
+}
+#btnConvert {
+  width: 240px;
+  height: 30px;
+  background-color: #212121;
+  color: #fff;
+  border: darkseagreen 0px solid;
+  border-radius: 1.5px;
+}
